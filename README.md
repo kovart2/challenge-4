@@ -2,7 +2,7 @@
 
 ## Description
 
-This agents detects execution of [Aave Goverenance](https://governance.aave.com/) proposals.
+This agents detects execution of [Aave Governance](https://governance.aave.com/) proposals.
 
 ## Supported Chains
 
